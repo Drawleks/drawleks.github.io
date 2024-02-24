@@ -1,6 +1,5 @@
 var numberArr = [ [ [0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0] ], [ [0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0] ] ];
 let sum = [ [0, 0, 0], [0, 0, 0] ];
-var sums1, sums2 = 0;
 var currentDice = 0;
 
 function launchDice() {
